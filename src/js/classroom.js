@@ -40,5 +40,4 @@ export function getRaisedGrades(grades) {
         return grade + 1 ;
     });
     return raisedGrades.join(', ')
-
 }
